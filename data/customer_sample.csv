@@ -1,0 +1,11 @@
+CustomerID,FirstName,LastName,Email,Phone,Country,DateOfBirth,RegistrationDate
+1,John,Doe,john.doe@email.com,+49-123-456-789,Germany,1990-05-15,2024-01-10
+2,Jane,Smith,jane.smith@email.com,+49-987-654-321,France,1985-08-22,2024-02-15
+3,Maria,,maria.popescu@email.com,+40-700-123-456,Romania,,2024-03-01
+4,John,Doe,john.doe@email.com,+49-123-456-789,Germany,1990-05-15,2024-01-10
+5,Alex,Ionescu,alex.ionescu,abc123,Romania,2000-13-45,2024-04-20
+6,Emma,Wilson,emma.wilson@email.com,+44-20-1234-5678,UK,1995-11-30,2023-12-01
+7,,Brown,bob.brown@email.com,+1-555-0199,USA,1988-07-14,2024-05-10
+8,Sarah,Miller,sarah.miller@email.com,+49-111-222-333,DEUTSCHLAND,1992-03-25,2024-06-15
+9,Michael,Johnson,michael.johnson@email.com,+49-444-555-666,Germany,150-01-01,2024-07-01
+10,Lisa,Anderson,lisa.anderson@email.com,,Spain,1998-09-18,2024-08-05
